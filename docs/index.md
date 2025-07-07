@@ -1,8 +1,8 @@
-# 📄 Compatibilidad de la Licencia MIT con Otras Licencias
+# Compatibilidad de la Licencia MIT con Otras Licencias
 
 La licencia **MIT** es una de las licencias de software más permisivas y ampliamente utilizadas. A continuación se presenta un cuadro comparativo de su compatibilidad con otras licencias comunes, considerando si es posible **combinar código** bajo estas licencias en un mismo proyecto o redistribuirlo sin conflictos legales.
 
-## ✅ Leyenda
+## Leyenda
 
 - ✔️ Compatible
 - ❌ No compatible
@@ -10,7 +10,7 @@ La licencia **MIT** es una de las licencias de software más permisivas y amplia
 
 ---
 
-## 📊 Cuadro Comparativo de Compatibilidad con MIT
+## Cuadro Comparativo de Compatibilidad con MIT
 
 | Licencia                  | Compatible con MIT | Comentarios                                                                 |
 |--------------------------|--------------------|------------------------------------------------------------------------------|
